@@ -1,4 +1,5 @@
 #include<stdio.h>
+__AW_ALIAS__
 
 int main(){
 int a,b;
