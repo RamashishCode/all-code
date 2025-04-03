@@ -7,6 +7,7 @@ int main(){
             printf( "%d",arr[i]);
 
         }
+        printf("hello");
       }
     }
 return 0;
